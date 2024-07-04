@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+
+
+    </head>
+    <body>
+        <h3>Unordered list</h3>
+        <ul>
+
+            <li>mobile</li>
+            <li>charger</li>
+                <ol type="1">
+                    <li>type b cable</li>
+                    <li>type c cable</li>
+                    <li>type a</li>
+                
+                </ol>
+            <li>headphone</li>
+            <li>type c cable</li>
+            <li>usb charger</li>
+        </ul>
+
+<!--ordered list-->
+        <h2>Ordered list</h2>
+        <ol type="A">
+            <li>krishna mohan</li>
+            <li>aman sharma</li>
+            <li>kaushal kumar</li>
+        </ol>
+        <ol type="1">
+            <li>Md danish</li>
+            <li>Assad</li>
+            <li>Abhilash kumar darshan</li>
+            <li>Atul</li>
+
+        </ol>
+
+
+
+       
+<!--description list,description term,description definition-->
+        <h2>description list</h2>
+
+        <dl><!--description list-->
+            <dt>Html</dt><!--description  term-->
+            <dd>this shows structure of the webpage</dd><!--description definition-->
+            <dt>css</dt>
+            <dd>this shows the styling of the webpage</dd>
+            <dt>java</dt>
+            <dd>this shows functionality of a webpage</dd>
+
+        </dl>
+
+    </body>
+
+
+
+
+
+
+</html>
